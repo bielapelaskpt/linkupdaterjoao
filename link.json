@@ -1,7 +1,4 @@
 {
     "url": "https://google.com",
-    "history": [
-        "https://example1.com",
-        "https://example2.com"
-    ]
+    "history": []
 }
